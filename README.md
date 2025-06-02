@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paulelitee
-- 👀 I’m interested in development of we applications
+- 👀 I’m interested in development of web applications
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me paulelitehonour@gmail.com
